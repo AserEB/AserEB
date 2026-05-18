@@ -75,7 +75,7 @@ Phone: +251936141055 / +251991076523
 Website: https://aserproduction.netlify.app/
 Fiverr: https://www.fiverr.com/s/R7PapP2
 Telegram: https://t.me/aserorthodoxwallpaper
-Telegram Bot: @aser_academy_bot
+Telegram Bot:https://aser_academy_bot
 TikTok: https://www.tiktok.com/@aser.production
 YouTube: www.youtube.com/@AserTechNovaContentCreation
 LinkedIn: www.linkedin.com/in/aser-production-a91020398
